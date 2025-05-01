@@ -84,6 +84,9 @@ h1 {
 .facebook {
     background-color: #3b5998;
 }
+.twitter{
+    background-color: #3b7098;
+}
 
 .link-button:hover {
     opacity: 0.85;
